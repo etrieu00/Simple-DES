@@ -4,6 +4,6 @@ Thank you, Professor Simon. CS468 FALL 2019
 ## Why Java?
 I was more proficient at Java at the time I made this.
 
-##Improvements
+## Improvements
 I would do redo this in Python.
 
