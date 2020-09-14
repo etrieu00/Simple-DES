@@ -5,5 +5,5 @@ Thank you, Professor Simon. CS468 FALL 2019
 I was more proficient at Java at the time I made this.
 
 ## Improvements
-I would do redo this in Python.
+I would redo this in Python.
 
